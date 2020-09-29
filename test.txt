@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new branch 1 
 
 12
+=======
+new branch 1 12321
+>>>>>>> NEw_branch
